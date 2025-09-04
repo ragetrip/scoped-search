@@ -1,0 +1,16 @@
+{
+  "name": "scoped-search",
+  "version": "1.0.2",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "dev": "node esbuild.config.mjs --watch",
+    "clean": "rm -f main.js main.js.map"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "esbuild": "^0.21.5",
+    "obsidian": "^1.5.0"
+  }
+}

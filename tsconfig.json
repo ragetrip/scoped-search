@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "jsx": "react",
+    "strict": true,
+    "resolveJsonModule": true,
+    "types": [
+      "node",
+      "obsidian"
+    ]
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
