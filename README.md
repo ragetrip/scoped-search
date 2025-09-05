@@ -21,6 +21,22 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 
 * * *
 
+## 📸 Screenshots / Easily add target folders and toggle which ones are selected by default when search is opened
+| Settings |
+| --- |
+| ![Settings](https://raw.githubusercontent.com/ragetrip/scoped-search/main/repo-assets/Scoped-Search_SettingsView.png) |
+
+---
+
+## 📸 Screenshots / Open as Tab, or optional Pop-Up modal for a cleaner look / Select single, multiple or all target folders during search
+| Tab View | Modal View |  
+| --- | --- |  
+| ![Tab View](https://raw.githubusercontent.com/ragetrip/scoped-search/main/repo-assets/Scoped-Search_TabView1.png) | ![Modal View](https://raw.githubusercontent.com/ragetrip/scoped-search/main/repo-assets/Scoped-Search_ModalView.png) |  
+
+---
+
+* * *
+
 ## 🧩 Install (Release ZIP)
 1. Download the latest `scoped-search-*.zip` from Releases.
 2. Unzip to `.obsidian/plugins/scoped-search/` so it contains `manifest.json`, `main.js`, `styles.css`.
