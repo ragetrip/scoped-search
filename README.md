@@ -59,4 +59,5 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 
 ## ☕ Support
 If this plugin helps you, consider supporting: https://buymeacoffee.com/ragetrip
+
 See more of my work: [GitHub @ragetrip](https://github.com/ragetrip?tab=repositories).
