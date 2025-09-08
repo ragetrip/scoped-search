@@ -20,17 +20,24 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 
 * * *
 
-## 📸 Screenshots / Easily add target folders and toggle which ones are selected by default when search is opened
+## 📸 PREVIEW | Easily add target folders and toggle which ones are selected by default when search is opened
 | Settings |
 | --- |
 | ![Settings](https://raw.githubusercontent.com/ragetrip/scoped-search/main/repo-assets/Scoped-Search_SettingsView.png) |
 
----
+* * *
 
-## 📸 Screenshots / Open as Tab, or optional Pop-Up modal for a cleaner look / Select single, multiple or all target folders during search
+## 📸 PREVIEW | Open as Tab, or optional Pop-Up modal for a cleaner look / Select single, multiple or all target folders during search
 | Tab View | Modal View |  
 | --- | --- |  
 | ![Tab View](https://raw.githubusercontent.com/ragetrip/scoped-search/main/repo-assets/Scoped-Search_TabView1.png) | ![Modal View](https://raw.githubusercontent.com/ragetrip/scoped-search/main/repo-assets/Scoped-Search_ModalView.png) |  
+
+* * *
+
+## 📸 PREVIEW | Work with Page Preview and/or Hover Editor
+| Page Preview / Hover Editor Support |
+| --- |
+| ![Settings](https://raw.githubusercontent.com/ragetrip/scoped-search/main/repo-assets/Scoped-Search_TabView2.png) |
 
 * * *
 
