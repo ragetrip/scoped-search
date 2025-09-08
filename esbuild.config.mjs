@@ -1,28 +1,24 @@
-// esbuild bundler for Obsidian plugin
-import esbuild from "esbuild";
+import esbuild from 'esbuild';
 
-const watch = process.argv.includes("--watch");
+const watch = process.argv.includes('--watch');
 
-/** @type {import('esbuild').BuildOptions} */
 const cfg = {
-  entryPoints: ["src/main.ts"],
+  entryPoints: ['src/main.ts'],
   bundle: true,
-  platform: "browser",
-  target: "es2020",
-  outfile: "main.js",
-  external: ["obsidian"],
+  platform: 'browser',
+  target: 'es2020',
+  outfile: 'main.js',
+  external: ['obsidian'],
   sourcemap: true,
 };
 
-async function run() {
+(async () => {
   if (watch) {
     const ctx = await esbuild.context(cfg);
     await ctx.watch();
-    console.log("Scoped Search: watching…");
+    console.log('Scoped Search: watching…');
   } else {
     await esbuild.build(cfg);
-    console.log("Scoped Search: build complete");
+    console.log('Scoped Search: build complete');
   }
-}
-
-run();
+})();

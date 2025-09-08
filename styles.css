@@ -1,3 +1,4 @@
+
 .scoped-search-modal { padding: 8px 12px; }
 .scoped-search-input { width: 100%; }
 .scoped-chipbar { display:flex; flex-wrap:wrap; gap:6px; margin-top:6px; }
@@ -8,8 +9,7 @@
 .scoped-result-item { padding:6px 4px; border-bottom:1px solid var(--background-modifier-border); }
 .scoped-result-item:hover, .scoped-result-item.is-selected { background: var(--background-modifier-hover); }
 .scoped-snippet { opacity:.8; font-size:.9em; }
-
-/* Folder picker */
+/* picker */
 .scoped-folder-picker { min-width: 520px; }
 .sfp-header { display:flex; gap:8px; align-items:center; margin-bottom:8px; }
 .sfp-tabs { display:flex; gap:6px; }

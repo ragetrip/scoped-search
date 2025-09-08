@@ -1,9 +1,9 @@
 {
   "id": "scoped-search",
   "name": "Scoped Search",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minAppVersion": "1.5.0",
-  "description": "A dedicated search modal/tab that searches only in selected folders (with non-Markdown filename search). Includes an enhanced folder picker (List & Tree, collapsed by default).",
+  "description": "Scoped search in selected folders. List/Tree picker. Page preview popovers. Configurable extension support",
   "author": "Ragetrip",
   "authorUrl": "https://github.com/ragetrip",
   "isDesktopOnly": false
