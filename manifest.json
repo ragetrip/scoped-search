@@ -1,9 +1,9 @@
 {
   "id": "scoped-search",
   "name": "Scoped Search",
-  "version": "1.0.3",
+  "version": "2.0.7",
   "minAppVersion": "1.5.0",
-  "description": "Scoped Search is a robust search modal/tab that only searches within the folders you choose. Includes enhanced folder picker by List or Tree, and configurable extensions.",
+  "description": "Scoped Search is a robust search modal/tab that only searches within the folders you choose. Includes enhanced folder picker by List or Tree, configurable extensions, and syntax support.",
   "author": "Ragetrip",
   "authorUrl": "https://github.com/ragetrip",
   "fundingUrl": "https://buymeacoffee.com/ragetrip",
