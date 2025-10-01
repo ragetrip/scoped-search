@@ -55,19 +55,18 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 * * *
 
 ## 📦 Install Methods: 
-
-### **Option 1 — Release ZIP**
-1. Download `scoped-search-2.0.3-release.zip` from **Releases**.
+- Release ZIP
+1. Download `scoped-search-2.0.7-release.zip` from **Releases**.
 2. Unzip to `.obsidian/plugins/scoped-search/` (or create new folder in `.obsidian/plugins` named **"scoped-search"**) so it contains the unzipped `manifest.json`, `main.js`, `styles.css`.
 3. Reload Obsidian and enable **"Scoped Search"**.
 
-### **Option 2 — BRAT**
+- BRAT
 1. Select **"Add beta plugin"**.
 2. Enter **"https://github.com/ragetrip/scoped-search"**.
 3. Expand the **"Select a version"** drop down, and select **"Latest version"**.
 4. Select "**Add plugin"**, then enable **"Scoped Search"**.
 
-### **Option 3 — Community Plugins (once available)**
+- Community Plugins (once available)
 1. Search **"Scoped Search"**.
 2. Select **"Install"**.
 3. Select **"Enable"**.
