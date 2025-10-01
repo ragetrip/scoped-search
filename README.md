@@ -34,7 +34,7 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 * * *
 
 ## 📸 PREVIEW | Open as Tab, or optional Pop-Up modal for a cleaner look - Select single, multiple or all target folders during search
-| Tab View | Modal View |  
+| Tab View | Modal (pop-up) View |  
 | --- | --- |  
 | ![Tab View](./repo-assets/Scoped-Search_TabView1.png) | ![Modal View](./repo-assets/Scoped-Search_ModalView.png) |  
 
