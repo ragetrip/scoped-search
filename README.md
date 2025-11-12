@@ -22,7 +22,7 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 - Reorder directories with stacked up/down buttons
 - Ctrl+hover for page **"preview"** or **"Hover Editor"** (supported)
 
-> **Version:** 2.0.7 · **Obsidian:** 1.5.0+ · **Platforms:** Desktop, MAC, iOS, and Android  
+> **Version:** 2.1.1 · **Obsidian:** 1.5.0+ · **Platforms:** Desktop, MAC, iOS, and Android  
 
 * * *
 
@@ -56,7 +56,7 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 
 ## 📦 Install Methods: 
 - Release ZIP
-1. Download `scoped-search-2.0.7-release.zip` from **Releases**.
+1. Download `scoped-search-2.1.1-release.zip` from **Releases**.
 2. Unzip to `.obsidian/plugins/scoped-search/` (or create new folder in `.obsidian/plugins` named **"scoped-search"**) so it contains the unzipped `manifest.json`, `main.js`, `styles.css`.
 3. Reload Obsidian and enable **"Scoped Search"**.
 
@@ -79,7 +79,7 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 - Toggle chips to include/exclude - **Alt-click** a chip to solo it.
 - Hover the "?" next to the search bar for quick advanced Search Syntax help.
 - Right-click a result for more actions.
-- Ctrl-click  the ribbon icon while in Modal mode to also open Tab View.
+- Ctrl-click the ribbon icon while in Modal mode to also open Tab View.
 - Click result header to open (via your selected menu method) or click body of result to expand it.
 
 * * *
