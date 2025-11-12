@@ -9,6 +9,7 @@ A dedicated search modal/tab that only searches **within the folders you choose*
 - Modal or Tab UI (dock it while you work)
 - **Select All** chip and per-folder **Selected by default**
 - **Preview-Pane** on result click for expanded review.
+- **Auto-scroll** to target hit on expanded window results.
 - Filename search for non-Markdown files (configurable extensions)
 - Session restore (remembers active chips per mode)
 - Alt-click = Solo a folder (exclusive folder selection)
